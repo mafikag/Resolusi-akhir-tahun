@@ -3,7 +3,9 @@ Target saya :
   > Bikin landing page
   > kalkulator sederhana
 - Bikin web portfolio
+  > Simple
 - Bikin CV
+  > ATS
 - keterima magang
 - pertahankan IPK
 - Bisa js fundamental
