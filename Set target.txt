@@ -1,5 +1,7 @@
 Target saya :
 - Kelarin project buat portfolio
+  > Bikin landing page
+  > kalkulator sederhana
 - Bikin web portfolio
 - Bikin CV
 - keterima magang
