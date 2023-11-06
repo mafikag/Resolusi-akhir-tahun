@@ -1,7 +1,11 @@
 Target saya :
 - Kelarin project buat portfolio
+  > Bikin landing page
+  > kalkulator sederhana
 - Bikin web portfolio
+  > Simple
 - Bikin CV
+  > ATS
 - keterima magang
 - pertahankan IPK
 - Bisa js fundamental
